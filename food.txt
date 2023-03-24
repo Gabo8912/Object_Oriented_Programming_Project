@@ -1,0 +1,3 @@
+Pizza,FUD,A pepperoni pizza,50,5
+Burrito,FUD,A beef burrito,30,6
+Sandwich,FUD,A ham and cheese sandwich,25,7

@@ -1,0 +1,3 @@
+Gansito,Marinela,A relay dessert of strawberry cream,20,10
+Oreo,Nabiso,Chocolate cookies with vanilla filling,25,5
+Chetos,Frito-Lay,Some cheese potatoes,18,15

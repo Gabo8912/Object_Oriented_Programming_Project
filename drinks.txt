@@ -1,0 +1,3 @@
+RegularCoke,Coca-Cola,the regular coke,20,5
+RegularPepsi,Pepsi,the regular pepsi,18,7
+SidralMundet,Coca-Cola,A soft drinkapple flavor,15,6

@@ -1,0 +1,3 @@
+Magnum,Unilever,A vanilla flavored snow palette covered in chocolate with almonds,40,20
+Cornetto,Unilever,a chocolate ice Cream cone, with vanilla and walnuts,28,18
+Crunch,Nestle,A ice cream made from chocolate crunch ,100,23

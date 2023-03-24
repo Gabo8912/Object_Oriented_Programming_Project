@@ -1,0 +1,23 @@
+Categoria Drinks:
+	
+	RegularCoke,Coca-Cola,the regular coke,20
+	RegularPepsi,Pepsi,the regular pepsi,18
+	SidralMundet,Coca-Cola,A soft drinkapple flavor,15
+
+Categoria Food:
+	
+	Pizza,FUD,A pepperoni pizza,50
+	Burrito,FUD,A beef burrito,30
+	Sandwich,FUD,A ham and cheese sandwich,25
+
+Categoria Snacks:
+	
+	Gansito,Marinela,A relay dessert of strawberry cream,20
+	Oreo,Nabiso,Chocolate cookies with vanilla filling,25
+	Chetos,Frito-Lay,Some cheese potatoes,18
+
+Categoria Ice-Creams:
+	
+	Magnum,Unilever,A vanilla-flavored snow palette covered in chocolate with almonds,40
+	Cornetto,Unilever,a chocolate ice-Cream cone, with vanilla and walnuts,28
+	Crunch,Nestle,A ice-cream made from chocolate crunch ,100
